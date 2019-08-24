@@ -1,0 +1,42 @@
+body{background-image: url('../img/ee (1).gif');
+color: white;
+}
+hr{
+  color:white;
+  border-style: outset;
+  width: 50%;
+}
+.akasco{
+  background-image: url('../img/land.svg');
+  text-align: center;
+  height: 310px;
+}
+.akasco h1{
+  font-size:60px;
+  font-family: cursive;
+  color: black;
+}
+.akasco ul{
+  font-family: cursive;
+  padding: 0;
+text-align: right;
+padding-right: 200px;
+padding-top: 20px;
+  list-style: none;
+}
+.akasco li{
+    display: inline;
+}
+.akasco a{
+  color: white;
+  text-decoration: none;
+font-size: 18px;
+font-weight: bold;
+padding-right: 20px;
+}
+.akasco ul a:hover{
+  color: red;
+}
+.akasco ul:active{
+  color: blue;
+}
